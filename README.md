@@ -1,4 +1,4 @@
-# Starter Next/Hardhat Project
+Next/Hardhat Project
 
 1. Inside the project directory, in the terminal type: npm i
 2. Open two additional terminals in your VS code
