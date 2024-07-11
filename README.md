@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # Next.js + Hardhat Project
 
 This project demonstrates the integration of a Next.js frontend with an Ethereum smart contract deployed using Hardhat. The contract allows the owner to deposit, withdraw, mint, transfer, and burn tokens.
+=======
+Next/Hardhat Project
+>>>>>>> b2ea0dea1de7312898939302d84fdf38976852fc
 
 ## Prerequisites
 
